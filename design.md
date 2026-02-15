@@ -1597,8 +1597,3 @@ BuildSense AI's architecture is designed for:
 
 **We're building the future of civic infrastructure management.**
 
----
-
-**Document Version:** 1.0  
-**Last Updated:** February 15, 2026  
-**Team:** BuildSense AI
